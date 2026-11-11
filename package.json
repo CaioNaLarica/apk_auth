@@ -1,0 +1,1 @@
+{"name":"apk-auth-emulators","private":true,"scripts":{"emulators":"firebase emulators:start --project demo-apk-auth --only auth,firestore --import .emulator-data --export-on-exit .emulator-data"},"devDependencies":{"firebase-tools":"^14.0.0"}}
